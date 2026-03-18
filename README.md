@@ -3,6 +3,8 @@
 ## Overview
 This repository presents a comprehensive machine learning pipeline for predicting the **bulk modulus of inorganic materials**. It compares multiple regression models and validates predictions using first-principles Density Functional Theory (DFT), enabling a scalable and cost-effective approach for materials property prediction.
 
+This work has been accepted for the conference presentation in 3rd International Conference in 3rd International Conference on Mechanical, Manufacturing and Process Engineering (ICMMPE – 2026). 
+
 ## Key Features
 - Comparative analysis of:
   - Random Forest (RF)
